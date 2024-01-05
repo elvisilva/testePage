@@ -1,0 +1,53 @@
+- title: Home
+- title: What's new
+- title: Development guidelines
+  pages:
+    - title: Overview
+    - title: Coding standards
+    - title: Application objects
+      pages:
+        - title: Tables
+        - title: Macros
+    - title: Frameworks 
+      pages:
+        - title: RunBase
+- title: Naming conventions
+  pages:
+    - title: Overview
+    - title: Naming basics
+    - title: Application objects
+      pages: 
+        - title: Overview
+        - title: New objects
+        - title: Extended objects
+        - title: Tables
+        - title: Data Entities
+        - title: Classes
+        - title: Jobs (Runnable classes)
+        - title: Forms
+    - title: Code artifacts 
+      pages:
+        - title: Overview
+        - title: Methods
+        - title: Variables
+        - title: Keywords
+        - title: Delegates and Event handlers
+    - title: UI artifacts
+      pages: 
+        - title: Labels
+        - title: Helptext
+        - title: Form datasources
+        - title: Form controls
+    - title: Underscores
+    - title: Prefixes
+    - title: Development project
+    - title: Deployment package
+- title: Development process
+  pages: 
+    - title: Overview
+    - title: Devbox maintenance
+- title: Examples
+  pages: 
+    - title: Code execution sequence
+    - title: Dead code
+- title: Known issues
